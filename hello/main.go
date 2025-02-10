@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello from go,  it's perfect here !!! \n everything it's fine!!")
+	fmt.Println("Hello from go Main branch,  it's perfect here !!! ")
 }
